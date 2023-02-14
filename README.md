@@ -1,13 +1,13 @@
 # Macy the AI Pharmacist, created with Generative AI
 
 ## Introduction
-Presenting to you, Macy the AI Pharmacist! Eager to put generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
+Presenting to you, **Macy the AI Pharmacist**! 
 
-Watch the video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
+Eager to put generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
-<video width="360" height="300" controls>
-  <source src="4. Studio D-ID Video/Pharmacist.mp4" type="video/mp4">
-</video>
+Click the thumbnail to watch the video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
+
+[![Generative AI Pharmacist](https://img.youtube.com/vi/Jwmshbu_1lQ/0.jpg)](https://youtu.be/Jwmshbu_1lQ "Generative AI Pharmacist")
 
 The outcome is impressive and will only get better very quickly, given the speed at which generative AI is improving.
 
@@ -27,6 +27,16 @@ ___
 ## Step-by-Step Guide
 
 ### (1) Midjourney - Image Generation
+- We need a face to represent our avatar, and we can use image generation tools to do just that
+- Midjourney is a free AI service by OpenAI that creates images from textual descriptions
+- Setup:
+    1. Midjourney works entirely on Discord, so make sure you sign up for a Discord account (which is free).
+    2. Visit this Midjourney site [link](https://discord.gg/midjourney), which automatically takes you to a Discord invite.
+    3. Accept the Discord invite to Midjourney. Choose to Continue to Discord.
+    4. 
+- https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/ 
+- Note: I also tried DALL-E but the faces I got were not very realistic (e.g., misaligned facial features). I did not try Stable Diffusion though.
+
 
 <br>
 
