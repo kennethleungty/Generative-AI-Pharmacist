@@ -1,7 +1,6 @@
 # Generative AI Pharmacist
 
-## Introduction
-Presenting to you, **Macy the AI Pharmacist**! 
+## Presenting to you, **Macy the AI Pharmacist**! 
 
 Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
