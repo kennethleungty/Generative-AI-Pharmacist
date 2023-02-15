@@ -16,7 +16,7 @@ Here are the tools I used:
 1. [**Midjourney**](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) to generate an image of a female pharmacist
 2. OpenAI's [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
 3. [**ElevenLabs**](http://www.elevenlabs.io/)'s Prime Video AI to generate audio from the ChatGPT script
-4. [**D-ID**](https://www.d-id.com/)'s Speaking Portrait to generate realistic animated avatar video synced with audio (Free trial)
+4. [**D-ID**](https://www.d-id.com/)'s Creative Reality Studio to generate realistic animated avatar video synced with audio (Free trial)
 
 #### This demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
 ___
