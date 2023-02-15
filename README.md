@@ -4,6 +4,8 @@
 
 Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
+> :warning: Disclaimer: This project and video is purely for demo purposes only, and is not intended to provide any form of medical advice.
+
 Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=Jwmshbu_1lQ)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
 [![Generative AI Pharmacist](https://img.youtube.com/vi/Jwmshbu_1lQ/0.jpg)](https://youtu.be/Jwmshbu_1lQ "Generative AI Pharmacist")
@@ -16,8 +18,6 @@ Here are the tools I used:
 2. [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
 3. [**ElevenLabs**](http://www.elevenlabs.io/) to generate audio from the ChatGPT script
 4. [**D-ID**](https://www.d-id.com/) to generate realistic animated avatar video synced with audio (Free trial)
-
-> Disclaimer: This video is purely for demo purposes only, and is not meant to provide any form of medical advice.
 
 #### This idea and demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
 ___
