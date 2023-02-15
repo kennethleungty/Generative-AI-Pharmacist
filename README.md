@@ -6,14 +6,13 @@ Keen to put the latest generative AI tools to the test, I created this animated 
 
 > :warning: Disclaimer: This project and video is purely for demo purposes only, and is not intended to provide any form of medical advice.
 
-Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=Jwmshbu_1lQ)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
+Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=SFGIn-LKtEk)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
 [![Generative AI Pharmacist](https://img.youtube.com/vi/SFGIn-LKtEk/0.jpg)](https://www.youtube.com/watch?v=SFGIn-LKtEk "Generative AI Pharmacist")
 
 The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this demo, it took me 0 dollars and only 25 minutes.
 
 Here are the tools I used:
-
 1. [**Midjourney**](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) to generate an image of a female pharmacist
 2. OpenAI's [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
 3. [**ElevenLabs**](http://www.elevenlabs.io/)'s Prime Video AI to generate audio from the ChatGPT script
@@ -51,7 +50,7 @@ ___
     </div>
 
     7. The four images are numbered going clockwise from the upper left. To get a new variation on one you like, select "V1" (or V2, V3, or V4), and to get a high resolution copy, select "U1" (or U2, U3, or U4)
-    8. Once you got your selected high-resolution variant, click on the image and select 'Open in Browser'. You can then save the high resolution on your local machine
+    8. Once you got your selected high-resolution variant by selecting one of the U buttons, click on the image and select 'Open in Browser'. You can then save the high resolution image on your local machine
 
     <div style="text-align: center;">
     <img src="Screenshots/open_in_browser.png" width="350"> 
@@ -96,7 +95,7 @@ ___
 
 <br>
 
-### (4) D-ID - Talking Avatar (and Audio Sync) Generation
+### (4) D-ID - Photorealistic Talking Avatar (and Audio Sync) Generation
 - Lastly, it is time to piece the pharmacist image and counselling audio together into a photorealistic video. To do so, we can use tools like D-ID.
 - D-ID’s creative AI technology takes images of faces and turns them into high-quality, photorealistic videos. At the click of a button, it can combine images with audio or text to give them expression and speech.
 - Setup:
