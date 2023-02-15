@@ -8,18 +8,18 @@ Keen to put the latest generative AI tools to the test, I created this animated 
 
 Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=Jwmshbu_1lQ)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
-[![Generative AI Pharmacist](https://img.youtube.com/vi/Jwmshbu_1lQ/0.jpg)](https://youtu.be/Jwmshbu_1lQ "Generative AI Pharmacist")
+[![Generative AI Pharmacist](https://img.youtube.com/vi/SFGIn-LKtEk/0.jpg)](https://www.youtube.com/watch?v=SFGIn-LKtEk "Generative AI Pharmacist")
 
 The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this demo, it took me 0 dollars and only 25 minutes.
 
 Here are the tools I used:
 
 1. [**Midjourney**](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) to generate an image of a female pharmacist
-2. [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
-3. [**ElevenLabs**](http://www.elevenlabs.io/) to generate audio from the ChatGPT script
-4. [**D-ID**](https://www.d-id.com/) to generate realistic animated avatar video synced with audio (Free trial)
+2. OpenAI's [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
+3. [**ElevenLabs**](http://www.elevenlabs.io/)'s Prime Video AI to generate audio from the ChatGPT script
+4. [**D-ID**](https://www.d-id.com/)'s Speaking Portrait to generate realistic animated avatar video synced with audio (Free trial)
 
-#### This idea and demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
+#### This demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
 ___
 <br>
 
