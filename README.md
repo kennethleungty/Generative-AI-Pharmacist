@@ -1,17 +1,17 @@
-# Meet Macy, the Generative AI Pharmacist
+# Generative AI Pharmacist
 
 ## Introduction
 Presenting to you, **Macy the AI Pharmacist**! 
 
-Keen to put generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
+Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
-Click the thumbnail to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
+Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=Jwmshbu_1lQ)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
 [![Generative AI Pharmacist](https://img.youtube.com/vi/Jwmshbu_1lQ/0.jpg)](https://youtu.be/Jwmshbu_1lQ "Generative AI Pharmacist")
 
-The outcome is impressive and will only get better very quickly, given the speed at which generative AI is improving.
+The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this demo, it took me 0 dollars and only 25 minutes.
 
-To create this demo, it took me 0 dollars and only 25 minutes with the help of these tools:
+Here are the tools I used:
 
 1. [**Midjourney**](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) to generate an image of a female pharmacist
 2. [**ChatGPT**](https://chat.openai.com/chat) to generate script for medication counselling
@@ -20,7 +20,7 @@ To create this demo, it took me 0 dollars and only 25 minutes with the help of t
 
 > Disclaimer: This video is purely for demo purposes only, and is not meant to provide any form of medical advice.
 
-#### This mini project is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
+#### This idea and demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
 ___
 <br>
 
@@ -83,7 +83,7 @@ ___
 - Prime Voice AI is a realistic and versatile AI speech software that brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
 - Setup:
     1. Visit the [ElevenLabs page](https://beta.elevenlabs.io/) and create an account for free.
-    2. On the Speech Synthesis page, select a specific voice in the settings, paste the text script into the text section, and click Generate. The default voice is chose is `premade/Domi` as I found it to be the most lively and natural. The settings can also be adjusted accordingly for things like stability and clarity.
+    2. On the Speech Synthesis page, select a specific voice in the settings, paste the text script into the text section, and click Generate. The voice I chose was `premade/Domi` as I found it to be the most lively and natural. The settings can also be adjusted accordingly for things like stability and clarity.
 
     <div style="text-align: center;">
     <img src="Screenshots/prime_voice_ai.png" width="500" text-align="center">
@@ -93,9 +93,26 @@ ___
 
     3. There is a credit limit for the free account, so make sure you use them wisely for the audio you want to generate.
 
+    4. Download and save the .mp3 (titled 'synthesized_audio.mp3') file on your local machine.
+
 <br>
 
 ### (4) D-ID - Talking Avatar (and Audio Sync) Generation
+- Lastly, it is time to piece the pharmacist image and counselling audio together into a photorealistic video. To do so, we can use tools like D-ID.
+- D-ID’s creative AI technology takes images of faces and turns them into high-quality, photorealistic videos. At the click of a button, it can combine images with audio or text to give them expression and speech.
+- Setup:
+    1. Visit the [D-ID](https://www.d-id.com/) website and create a Free Trial account
+    2. Select the Create Video button to start creating a new video
+    3. Add your Midjourney pharmacist image as a presenter image
+    4. Upload our ChatGPT scripted audio in the `Upload your own voice` section on the right.
 
+    <div style="text-align: center;">
+    <img src="Screenshots/d-id_generate_video.png" width="550" text-align="center">
+    </div>
+    
+
+    5. Click the `Generate Video` button at the top right and wait for your masterpiece to be ready for download!
+
+___
 
 
