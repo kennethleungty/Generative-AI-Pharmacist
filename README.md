@@ -4,7 +4,7 @@
 
 Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
-> :warning: Disclaimer: This project and video is purely for demo purposes only, and is not intended to provide any form of medical advice.
+> :warning: Disclaimer: This video is purely for demo purposes as part of a personal hobby project and is not intended to provide any form of medical advice. This is not a real product, and views expressed are my own.
 
 Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=SFGIn-LKtEk)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
@@ -64,7 +64,7 @@ ___
 - We need a medication counselling script that can give relevant advice on a set of medications. To do that, we can use ChatGPT.
 - ChatGPT is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
 - Setup:
-    1. Visit this link to access ChatGPT (you will need to login accordingly)
+    1. Visit this [link](https://chat.openai.com/chat) to access ChatGPT (you will need to login accordingly)
     2. In the prompt section, enter the relevant description for the counselling script. For example, the prompt I used is as follows: "Create a script that first introduces oneself as a pharmacist called Macy, and then talks about the counselling points to a patient for the following prescription: metformin 1 tablet 3 times a day, amlodipine 1 tablet every morning, and aspirin 1 tablet every morning".
 
     <div style="text-align: center;">
