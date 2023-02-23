@@ -6,9 +6,9 @@ Keen to put the latest generative AI tools to the test, I created this animated 
 
 > :warning: Disclaimer: This video is purely for demo purposes as part of a personal hobby project and is not intended to provide any form of medical advice. This is not a real product, and views expressed are my own.
 
-Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=SFGIn-LKtEk)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
+Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=RXjTK05U2Ag)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
-[![Generative AI Pharmacist](https://img.youtube.com/vi/SFGIn-LKtEk/0.jpg)](https://www.youtube.com/watch?v=SFGIn-LKtEk "Generative AI Pharmacist")
+[![Generative AI Pharmacist](https://img.youtube.com/vi/RXjTK05U2Ag/0.jpg)](https://www.youtube.com/watch?v=RXjTK05U2Ag "Generative AI Pharmacist")
 
 The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this demo, it took me 0 dollars and only 25 minutes.
 
