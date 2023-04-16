@@ -58,6 +58,12 @@ ___
 
 > I also tried other tools like DALL-E and Stable Diffusion but their results were not realistic enough (e.g., misaligned eyes and facial features).
 
+    
+**NOTE**: Midjourney has paused its free trial program as of April 2023. To generate realistic facial pictures, you can use either of the following:
+- Find a picture on the Internet as the base image to work with, or even use your own photos
+- Head to https://this-person-does-not-exist.com/en (based on the StyleGAN algorithm) to generate a realistic face
+
+
 <br>
 
 ### (2) ChatGPT - Text Generation
