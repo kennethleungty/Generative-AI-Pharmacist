@@ -49,8 +49,8 @@ ___
     <img src="Screenshots/output_four_img.png" width="550">  
     </div>
 
-    7. The four images are numbered going clockwise from the upper left. To get a new variation on one you like, select "V1" (or V2, V3, or V4), and to get a high resolution copy, select "U1" (or U2, U3, or U4)
-    8. Once you got your selected high-resolution variant by selecting one of the U buttons, click on the image and select 'Open in Browser'. You can then save the high resolution image on your local machine
+    7. The four images are numbered going clockwise from the upper left. To get a new variation of a particular image you like, select "V1" (or V2, V3, or V4), and to get a high resolution copy, select "U1" (or U2, U3, or U4)
+    8. Once you have your selected high-resolution variant by clicking one of the U buttons, click on the image and then click the 'Open in Browser' link near the bottom. You can then right click and save the high resolution image into your computer.
 
     <div style="text-align: center;">
     <img src="Screenshots/open_in_browser.png" width="350"> 
@@ -58,19 +58,17 @@ ___
 
 > I also tried other tools like DALL-E and Stable Diffusion but their results were not realistic enough (e.g., misaligned eyes and facial features).
 
-    
 **NOTE**: Midjourney has paused its free trial program as of April 2023. To generate realistic facial pictures, you can use either of the following:
 - Find a picture on the Internet as the base image to work with, or even use your own photos
 - Head to https://this-person-does-not-exist.com/en (based on the StyleGAN algorithm) to generate a realistic face
 
-
 <br>
 
 ### (2) ChatGPT - Text Generation
-- We need a medication counselling script that can give relevant advice on a set of medications. To do that, we can use ChatGPT.
+- We need a counselling script that can give relevant advice on a set of medications. To do that, we can use ChatGPT.
 - ChatGPT is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
 - Setup:
-    1. Visit this [link](https://chat.openai.com/chat) to access ChatGPT (you will need to login accordingly)
+    1. Visit this [link](https://chat.openai.com/chat) to access ChatGPT (you will need to sign up and login accordingly, which is free)
     2. In the prompt section, enter the relevant description for the counselling script. For example, the prompt I used is as follows: "Create a script that first introduces oneself as a pharmacist called Macy, and then talks about the counselling points to a patient for the following prescription: metformin 1 tablet 3 times a day, amlodipine 1 tablet every morning, and aspirin 1 tablet every morning".
 
     <div style="text-align: center;">
@@ -78,7 +76,7 @@ ___
     </div>
 
     3. From the output on the ChatGPT screen, copy and save the generated text in a text file on your local machine.
-> I had to regenerate the response several times because I found some of the output to be overly theoretical and academic, and does not sound like the expected layman format for explaining medications to patients.
+> I had to regenerate the response several times because I found some of the output to be overly theoretical and academic, and is not in the expected layman format for explaining medications to patients.
 
 <br>
 
@@ -98,6 +96,8 @@ ___
     3. There is a credit limit for the free account, so make sure you use them wisely for the audio you want to generate.
 
     4. Download and save the .mp3 (titled 'synthesized_audio.mp3') file on your local machine.
+
+> Bonus Tip: ElevenLabs also comes with the voice cloning capabilities (under the Voice Lab feature): https://beta.elevenlabs.io/voice-lab. If you have >1 min recording of a particular voice, you can convert the script into the voice you want to clone.
 
 <br>
 
