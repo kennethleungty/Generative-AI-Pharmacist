@@ -61,6 +61,7 @@ ___
 **NOTE**: Midjourney has paused its free trial program as of April 2023. To generate realistic facial pictures, you can use either of the following:
 - Find a picture on the Internet as the base image to work with, or even use your own photos
 - Head to https://this-person-does-not-exist.com/en (based on the StyleGAN algorithm) to generate a realistic face
+- Other websites that you can try include: https://lexica.art and https://playgroundai.com/
 
 <br>
 
