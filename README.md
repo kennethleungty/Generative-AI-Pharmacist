@@ -18,7 +18,7 @@ Here are the tools I used:
 3. [**ElevenLabs**](http://www.elevenlabs.io/)'s Prime Video AI to generate audio from the ChatGPT script
 4. [**D-ID**](https://www.d-id.com/)'s Creative Reality Studio to generate realistic animated avatar video synced with audio (Free trial)
 
-#### This demo is inspired by [Prompt Engineering](https://www.youtube.com/watch?v=V2efVSXSlqc)
+#### This project has also been proudly featured in a research study (Artificial Intelligence–Generated Patient Information Videos for Partial Nephrectomy by Medical Students With Expert Validation: A Pilot Study) published in JU Open Plus (The official journal of the American Urological Association):  https://journals.lww.com/juop/fulltext/2024/07000/artificial_intelligence_generated_patient.1.aspx
 ___
 <br>
 
